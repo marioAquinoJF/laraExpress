@@ -12,20 +12,8 @@
             <file>file:/C:/xampp/htdocs/laraExpress/database/seeds/DatabaseSeeder.php</file>
         </group>
         <group name="school">
-            <file>file:/C:/xampp/htdocs/laraExpress/database/factories/ModelFactory.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/app/pts/Comment.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/resources/views/admin/posts/index.blade.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/database/seeds/UserTableSeeder.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/app/pts/Tag.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/app/Http/Requests/PostRequest.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/resources/views/posts/index.blade.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/database/seeds/PostsTableSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/laraExpress/public/.htaccess</file>
             <file>file:/C:/xampp/htdocs/laraExpress/app/Http/routes.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/app/Http/Controllers/pts/PostsAdminController.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/database/seeds/TagTableSeeder.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/resources/views/app.blade.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/app/pts/Post.php</file>
-            <file>file:/C:/xampp/htdocs/laraExpress/database/seeds/DatabaseSeeder.php</file>
         </group>
     </open-files>
 </project-private>

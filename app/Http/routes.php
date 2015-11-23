@@ -13,6 +13,7 @@
 
 Route::get('/', 'pts\PostsController@index');
 Route::get('/home', 'HomeController@index');
+Route::get('/public', 'HomeController@index');
 
 Route::controllers([
     'auth' => 'Auth\AuthController',
